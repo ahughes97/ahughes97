@@ -33,3 +33,43 @@
 | 3 | 4 / 6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar / Alana |
 | 3.1 | 4 | Testing Documentation | 27th May 2021 | 30th May 2021 | Alana |
 | 3.2 | 6 | Handover | 7th June 2021 | 17th June 2021 | Jigar / Alana |
+
+# Pseudo-Code
+1. IF logging in to website THEN
+
+		show username box
+		show password box
+    
+END IF
+
+IF username and password are correct
+
+		show enter button
+    
+ELSE 
+
+		Show wrong username or password prompt
+
+
+2. IF completed adding items to the cart THEN
+
+		show checkout option
+    
+ELSE
+
+		show continue shopping option
+
+
+3. ON delivery form submit
+
+		validate
+    
+IF errors
+
+		show errors
+    
+ELSE
+
+    submit form
+  
+
