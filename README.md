@@ -35,41 +35,41 @@
 | 3.2 | 6 | Handover | 7th June 2021 | 17th June 2021 | Jigar / Alana |
 
 # Pseudo-Code
-1. IF logging in to website THEN
+1. 	IF logging in to website THEN
 
 		show username box
 		show password box
     
-END IF
+	END IF
 
-IF username and password are correct
+	IF username and password are correct
 
 		show enter button
     
-ELSE 
+	ELSE 
 
 		Show wrong username or password prompt
 
 
-2. IF completed adding items to the cart THEN
+2. 	IF completed adding items to the cart THEN
 
 		show checkout option
     
-ELSE
+	ELSE
 
 		show continue shopping option
 
 
-3. ON delivery form submit
+3. 	ON delivery form submit
 
 		validate
     
-IF errors
+	IF errors
 
 		show errors
     
-ELSE
+	ELSE
 
-    submit form
+   		submit form
   
 
