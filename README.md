@@ -1,3 +1,175 @@
+# Team Meetings
+## Meeting Information
+Objective: [Project Planning]
+
+Date: 06/05/2021
+
+Time: 10:30am
+
+Location: Block C (Room: C214)
+
+Call-In Number: 2
+
+Attendees: Jigar, Alana
+
+### Agenda Items
+1. Planning to business description
+2. Discussed on topics
+3. Tasks divided
+
+### Action
+1. Finish the task before next meeting
+2. Add those in weekly docs
+3. Share work with peers
+
+| Task | Performer |
+| --- | --- |
+| Arrange team meeting | Jigar |
+| Stakeholders' list | Alana |
+| Make project charter | Jigar |
+| WBS | Alana |
+
+### Discussion
+1. Topics to describe
+
+### Next meeting
+17/05/2021
+
+## Meeting Information
+Objective: [Discussion and planning of task]
+
+Date: 17/05/2021
+
+Time: 10:30am
+
+Location: Block C (Room C214)
+
+Call-In Number: 2 
+
+Attendees: Jigar, Alana
+
+### Agenda Items
+1. Product Description
+2. Resources Needed
+3. GUI
+4. Make risk register
+
+### Action
+1. Finish the task before next meeting
+2. Add those in weekly docs
+3. Share work with peers
+
+| Task | Performer |
+| --- | --- |
+| Description of product | Jigar |
+| Resources Needed | Alana |
+| Risk register | Jigar |
+| Testing doucmentation | Alana |
+
+### Discussion
+1. Topics to describe
+2. What resources are needed for the project
+3. What would be the risks
+
+### Next meeting
+31/05/2021
+
+## Meeting Information
+Objective: [Discussion and planning of task]
+
+Date: 31/05/2021
+
+Time: 10:30am
+
+Location: Block C (Room: C214)
+
+Call-In Number: 2
+
+Attendees: Jigar, Alana
+
+### Agenda Items
+1. Make prototypes for GUI
+2. Create website for the restaurant
+3. Pseudo-Code
+
+### Action 
+1. Finish the task before next meeting
+2. Add those in weekly docs
+3. Share work with peers
+
+| Task | Perfomer |
+| --- | --- |
+| Prototypes for website / GUI | Jigar |
+| Pseudo-Code | Alana |
+| Create website on the project / GUI | Jigar / Alana |
+| Handover | Jigar / Alana |
+
+### Discussion
+1. Topics to describe
+2. Website design for prototype
+3. Codes
+4. Edit websites as prototype
+
+### Next meeting
+Project ends.
+
+# Stakeholders
+### Internal
+Internal stakeholders are entities within the restaurant which include the owner, the manager, and the employees
+### External
+External stakeholders are entities not within the restaurant but still care about and / or affected by the restaurants' performances, these include suppliers, customers, and the government
+
+| Name | Title | Category | Requirements |
+| --- | --- | --- | --- |
+| John | Owner | Internal | Maximise the profit made by the restaurant |
+| Victor | Manager | Internal | Ensure employees are working to high standard and maintain the dat-to-day running of the restaurant |
+| Sally, Kim, Frank, Charlie | Employees | Internal | Want to earn money and stay employed |
+| | Suppliers | External | Ensure the restaurant continues purchasing from them and regularly provides stock to the restaurant |
+| | Customers | External | Want the restaurant to provide them with high-quality food at affordable costs and efficient service provided by the employees |
+| | Government | External | Wants the restaurant to pay their taxes, to follow the laws, and to employ more staff members who have prior restaurant experience |
+
+# Project Charter
+| Task | Description | Task | Description |
+| --- | --- | --- | --- |
+| Project Title | An automated restaurant website | Project Manager | Jigar Patel |
+| Project Start Date | 5th May 2021 | Project End Date | 17th May 2021 |
+| Project Sponsor | NZ Pizza LTD | Project Description | To design a website for a restaurant which is to book and calculate the food required so it can be pre-ordered from the supplier or the supply chain |
+| Scope | The system is to help the business and the staff to order the food directly and automatically from the supplier. Save time to order and stocks calculating system. Reduce time. No mismanagement | Risk and Issues | No team member has the previous experience with the setup of the automated website, so we have underestimated the work involved |
+| Business Case | To reduce the employment time to calculate the stocks and order to the suppliers. To reduce mismanagement so no extra orders and no food wastage | Benefits | 1. Customers can get everything when they need because it is in always pre stocks. So, the restaurant does not need to say do not have in stock. Customer satisfaction. 2. Save employees time, so no more work no more wages to pay |
+| Financials | $4500.00 is the initial budget to complete the project. Can be increased to $6000.00 if necessary |
+### Major Tasks
+| Tasks | Estimated Start Date | Completion Date |
+| --- | --- | --- |
+| Upload the restaurant menus and items on website | 17th May 2021 | 21st May 2021 |
+| Add the suppliers of chain data | 24th May 2021 | 27th May 2021 | 
+| User testing for the website | 4th June 2021 | 10th June 2021 |
+| Run the new website on restaurant webpage | 11th June 2021 | 17th June 2021 |
+### Project Team
+| Project Manager | Project Manager | Team Member | 
+| --- | --- | --- |
+| Jigar Patel | Alana Hughes | Senior Manager and Analyst |
+### Approvals
+| Sponsor | Finance Manager | Business Head Manager | Business Division Manager |
+| --- | --- | --- | --- |
+| NZ Pizza LTD / John | Mike | Andy Bryson | Jonathan |
+
+# Description of Products
+### Features:
+- The website will order that food to suppliers directly
+- Customers can choose their food from pictures provided
+- Easily accessible menu
+- Earn points for every online order
+- Online table reservation
+- Email customers and restaurants to confirm that customers order this food
+- Websites can be easily accessed on mobile or another similar device
+- Special services are visible on websites like weddings, parties, etc
+- Easy add delivery
+
+### Analysis of competing websites
+We have completed our webstie with some other providers/websites. We found that some of the ways are different in our webiste than others. For example:
+- Our webiste is ordering the food from suppliers directly and automatically counts the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website
+- On our online orders from website sets earning points for the cutomers which can attract customers. That I have not seen on any other websites, for example Zomato
+
 # Resources Needed
 - The documentation we've completed for the website. This includes the team meeting, stakeholders, project charter, work breakdown structure, and description of products.
 - Any prototypes / wireframes for the design of the website
@@ -72,4 +244,5 @@
 
    		submit form
   
+# Testing Documentation
 
