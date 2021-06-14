@@ -113,6 +113,22 @@ Attendees: Jigar, Alana
 ### Next meeting
 Project ends.
 
+# Company Profiles
+
+## Jigar Patel
+From: India, living in Hastings
+
+Work Experience: Worked on dairy farms for 4 years
+
+Education: National Diploma in Business Level 6
+
+## Alana Hughes
+From: Hastings
+
+Work Experience: 3-4 years of work experience in Retail
+
+Education: Level 4 Certificate in Airline, Hotel and Travel Operations, Level 5 Diploma in Travel and Tourism Management
+
 # Stakeholders
 ### Internal
 Internal stakeholders are entities within the restaurant which include the owner, the manager, and the employees
