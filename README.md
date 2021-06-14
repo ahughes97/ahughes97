@@ -165,6 +165,13 @@ External stakeholders are entities not within the restaurant but still care abou
 - Special services are visible on websites like weddings, parties, etc
 - Easy add delivery
 
+# GUI
+![image](https://user-images.githubusercontent.com/84427698/121831377-69eec980-cd1b-11eb-9065-b10aab5a2444.png)
+![image](https://user-images.githubusercontent.com/84427698/121831405-796e1280-cd1b-11eb-976f-740a7990801f.png)
+
+# Persona
+![image](https://user-images.githubusercontent.com/84427698/121831462-9e628580-cd1b-11eb-90a4-4b829d81a689.png)
+
 ### Analysis of competing websites
 We have completed our webstie with some other providers/websites. We found that some of the ways are different in our webiste than others. For example:
 - Our webiste is ordering the food from suppliers directly and automatically counts the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website
@@ -198,13 +205,18 @@ We have completed our webstie with some other providers/websites. We found that 
 | 1.6 | 2 | Resources Needed | 13th May 2021 | 25th May 2021 | Alana
 | 1.7 | 3 | Risk Register | 17th May 2021 | | Jigar |
 | 1.8 | 1-8 | Weekly Progress Updates (Journal) | 3rd May 2021 | 17th June 2021 | Jigar / Alana |
+| 1.9 | 1/3/5 | Team Meetings | 17th May 2021 | 17th May 2021 | Jigar |
 | 2 | 5 | Design | 31st May 2021 | 6th June 2021 | Jigar / Alana |
 | 2.1 | 5 | GUI | 31st May 2021 | 6th June 2021 | Jigar |
 | 2.2 | 5 | Pseudo-Code | 31st May 2021 | 6th June 2021 | Alana |
 | 2.3 | 5 | Create Website | 2nd June 2021 | 6th June 2021 | Jigar / Alana |
-| 3 | 4 / 6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar / Alana |
-| 3.1 | 4 | Testing Documentation | 27th May 2021 | 30th May 2021 | Alana |
-| 3.2 | 6 | Handover | 7th June 2021 | 17th June 2021 | Jigar / Alana |
+| 3 | 4/6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar / Alana |
+| 3.1 | 6 | Implement headers, footers | 7th June | 13th June 2021 | |
+| 3.2 | 6 | Implement online order | 7th June 2021 | 13th June 2021 | |
+| 3.3 | 6 | Specials menu | 7th June 2021 | 13th June 2021 | |
+| 3.4 | 6 | Online menu | 7th June 2021 | 13th June 2021 | |
+| 3.5 | 4/6 | Testing Documentation | 27th May 2021 | 13th May 2021 | Alana |
+| 3.2 | 7 | Handover | 14th June 2021 | 17th June 2021 | Jigar / Alana |
 
 # Pseudo-Code
 1. 	IF logging in to website THEN
@@ -245,4 +257,7 @@ We have completed our webstie with some other providers/websites. We found that 
    		submit form
   
 # Testing Documentation
+![image](https://user-images.githubusercontent.com/84427698/121831232-14b2b800-cd1b-11eb-911c-5b6f4293218e.png)
+![image](https://user-images.githubusercontent.com/84427698/121831282-2f852c80-cd1b-11eb-8bd0-5b578deef570.png)
+
 
