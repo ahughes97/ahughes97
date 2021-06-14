@@ -189,8 +189,8 @@ We have completed our webstie with some other providers/websites. We found that 
 | 1.1 | Planning - prepare team meetings | Team members meeting (workshop) | 3 hours | 3x $30 = $90 |
 | 1.2 | Organise meeting with suppliers about product information | Internal stakeholders' meeting | 5 hours | 5x $50 = $250 |
 | 1.5 | Add features to website | Laptop | 2 laptops | 2x $500 = $1000 |
-| 2.2 | Create a website | Laptop | 2 laptops | |
-| 3.1 | Test website using doucmentation | Document and laptop | Testing documentation and a laptop | |
+| 2.3 | Create a website | Laptop | 2 laptops | |
+| 3.5 | Test website using doucmentation | Document and laptop | Testing documentation and a laptop | |
 | Total | | | | NZ$1340 |
 
 # Work Breakdown Structure (WBS)
@@ -204,19 +204,19 @@ We have completed our webstie with some other providers/websites. We found that 
 | 1.5 | 2 | Description of Products | 13th May 2021 | 16th May 2021 | Jigar |
 | 1.6 | 2 | Resources Needed | 13th May 2021 | 25th May 2021 | Alana
 | 1.7 | 3 | Risk Register | 17th May 2021 | | Jigar |
-| 1.8 | 1-8 | Weekly Progress Updates (Journal) | 3rd May 2021 | 17th June 2021 | Jigar / Alana |
+| 1.8 | 1-8 | Weekly Progress Updates (Journal) | 3rd May 2021 | 17th June 2021 | Jigar/Alana |
 | 1.9 | 1/3/5 | Team Meetings | 17th May 2021 | 17th May 2021 | Jigar |
-| 2 | 5 | Design | 31st May 2021 | 6th June 2021 | Jigar / Alana |
+| 2 | 5 | Design | 31st May 2021 | 6th June 2021 | Jigar/Alana |
 | 2.1 | 5 | GUI | 31st May 2021 | 6th June 2021 | Jigar |
 | 2.2 | 5 | Pseudo-Code | 31st May 2021 | 6th June 2021 | Alana |
-| 2.3 | 5 | Create Website | 2nd June 2021 | 6th June 2021 | Jigar / Alana |
-| 3 | 4/6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar / Alana |
-| 3.1 | 6 | Implement headers, footers | 7th June | 13th June 2021 | |
-| 3.2 | 6 | Implement online order | 7th June 2021 | 13th June 2021 | |
-| 3.3 | 6 | Specials menu | 7th June 2021 | 13th June 2021 | |
-| 3.4 | 6 | Online menu | 7th June 2021 | 13th June 2021 | |
+| 2.3 | 5 | Create Website | 2nd June 2021 | 6th June 2021 | Jigar/Alana |
+| 3 | 4/6 | Implementation | 27th May 2021 | 17th June 2021 | Jigar/Alana |
+| 3.1 | 6 | Implement headers, footers | 7th June | 13th June 2021 | Jigar |
+| 3.2 | 6 | Implement online order | 7th June 2021 | 13th June 2021 | Jigar |
+| 3.3 | 6 | Specials menu | 7th June 2021 | 13th June 2021 | Jigar/Alana |
+| 3.4 | 6 | Online menu | 7th June 2021 | 13th June 2021 | Jigar/Alana |
 | 3.5 | 4/6 | Testing Documentation | 27th May 2021 | 13th May 2021 | Alana |
-| 3.2 | 7 | Handover | 14th June 2021 | 17th June 2021 | Jigar / Alana |
+| 3.2 | 7 | Handover | 14th June 2021 | 17th June 2021 | Jigar/Alana |
 
 # Pseudo-Code
 1. 	IF logging in to website THEN
