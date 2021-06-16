@@ -234,6 +234,12 @@ We have completed our webstie with some other providers/websites. We found that 
 | 3.5 | 4/6 | Testing Documentation | 27th May 2021 | 13th May 2021 | Alana |
 | 3.2 | 7 | Handover | 14th June 2021 | 17th June 2021 | Jigar/Alana |
 
+## Gantt Chart
+![image](https://user-images.githubusercontent.com/84427698/122202062-c5be7b80-cef0-11eb-8973-d7ee3533348b.png)
+
+## Network Diagram
+![image](https://user-images.githubusercontent.com/84427698/122202260-fb636480-cef0-11eb-91bb-dc89acd0236d.png)
+
 # Pseudo-Code
 1. 	IF logging in to website THEN
 
