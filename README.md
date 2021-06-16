@@ -52,7 +52,7 @@ Attendees: Jigar, Alana
 1. Product Description
 2. Resources Needed
 3. GUI
-4. Make risk register
+4. Make Risk Register
 
 ### Action
 1. Finish the task before next meeting
@@ -275,5 +275,9 @@ We have completed our webstie with some other providers/websites. We found that 
 # Testing Documentation
 ![image](https://user-images.githubusercontent.com/84427698/121831232-14b2b800-cd1b-11eb-911c-5b6f4293218e.png)
 ![image](https://user-images.githubusercontent.com/84427698/121831282-2f852c80-cd1b-11eb-8bd0-5b578deef570.png)
+
+# Screenshot of Website
+![image](https://user-images.githubusercontent.com/84427698/122199479-2ef0bf80-ceee-11eb-8dbb-90c54585b5a7.png)
+
 
 
