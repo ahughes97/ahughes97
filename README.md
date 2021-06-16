@@ -209,6 +209,9 @@ We have completed our webstie with some other providers/websites. We found that 
 | 3.5 | Test website using doucmentation | Document and laptop | Testing documentation and a laptop | |
 | Total | | | | NZ$1340 |
 
+# Risk Register
+![image](https://user-images.githubusercontent.com/84427698/122203576-492c9c80-cef2-11eb-932d-8b56afb32b2e.png)
+
 # Work Breakdown Structure (WBS)
 | WBS Code | Week | Task Requirements | Start Date | End Date | Completed By |
 | --- | --- | --- | --- | --- | --- |
