@@ -286,7 +286,8 @@ We have completed our webstie with some other providers/websites. We found that 
 ![image](https://user-images.githubusercontent.com/84427698/121831282-2f852c80-cd1b-11eb-8bd0-5b578deef570.png)
 
 # Screenshot of Website
-![image](https://user-images.githubusercontent.com/84427698/122199479-2ef0bf80-ceee-11eb-8dbb-90c54585b5a7.png)
+![image](https://user-images.githubusercontent.com/84427698/122204155-e8ea2a80-cef2-11eb-9471-61cec6874bba.png)
+
 
 
 
