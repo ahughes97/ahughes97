@@ -181,17 +181,17 @@ External stakeholders are entities not within the restaurant but still care abou
 - Special services are visible on websites like weddings, parties, etc
 - Easy add delivery
 
+### Analysis of competing websites
+We have completed our webstie with some other providers/websites. We found that some of the ways are different in our webiste than others. For example:
+- Our webiste is ordering the food from suppliers directly and automatically counts the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website
+- On our online orders from website sets earning points for the cutomers which can attract customers. That I have not seen on any other websites, for example Zomato
+
 # GUI
 ![image](https://user-images.githubusercontent.com/84427698/121831377-69eec980-cd1b-11eb-9065-b10aab5a2444.png)
 ![image](https://user-images.githubusercontent.com/84427698/121831405-796e1280-cd1b-11eb-976f-740a7990801f.png)
 
 # Persona
 ![image](https://user-images.githubusercontent.com/84427698/121831462-9e628580-cd1b-11eb-90a4-4b829d81a689.png)
-
-### Analysis of competing websites
-We have completed our webstie with some other providers/websites. We found that some of the ways are different in our webiste than others. For example:
-- Our webiste is ordering the food from suppliers directly and automatically counts the stock in the restaurant which is new on the website of restaurants I have not seen on any other restaurant website
-- On our online orders from website sets earning points for the cutomers which can attract customers. That I have not seen on any other websites, for example Zomato
 
 # Resources Needed
 - The documentation we've completed for the website. This includes the team meeting, stakeholders, project charter, work breakdown structure, and description of products.
